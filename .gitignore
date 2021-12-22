@@ -131,3 +131,7 @@ dmypy.json
 # Pycharms
 venv
 .idea
+
+# Tmp
+tmp.txt
+tmp
