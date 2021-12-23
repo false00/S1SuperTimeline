@@ -135,3 +135,5 @@ venv
 # Tmp
 tmp.txt
 tmp
+*.xlsx
+*.csv
