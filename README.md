@@ -15,6 +15,9 @@ this script.
 
 ### Install dependencies
 
+Use a supported Python release; the pinned dependency set is validated with Python 3.12.
+Reinstall the requirements in existing environments to receive the security updates.
+
 ```commandline
 pip install -r requirements.txt
 ```
